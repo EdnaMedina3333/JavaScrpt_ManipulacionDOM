@@ -1,0 +1,13 @@
+/* Estilos generales*/
+
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+
+/*Estilos para mi imagen*/
+img {
+    max-width: 100%;
+    height: auto;
+}
